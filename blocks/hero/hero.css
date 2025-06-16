@@ -8,7 +8,7 @@
   position: relative;
   padding: 40px 24px;
   min-height: 300px;
-   background: BLUE;
+   /* background: BLUE; */
 }
 
 .hero h1 {
